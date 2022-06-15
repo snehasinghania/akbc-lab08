@@ -1,7 +1,6 @@
 # Lab 08: Knowledge Base Construction from Language Models
 
-This repository contains dataset and scripts for Lab 08 of the 
-[AKBC course](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/ss2022/akbc) 
+This repository contains the dataset and scripts for Lab 08 of [AKBC course](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/ss2022/akbc) 
 
 ## Download the dataset and scripts
 
