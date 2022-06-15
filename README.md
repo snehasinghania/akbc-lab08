@@ -63,6 +63,6 @@ The baseline method achieves the following scores after running the evaluate.py 
 | PersonLanguage                  | 0.12        | 0.0817     | 0.0913    |
 | PersonProfession                | 0.0         | 0.0        | 0.0       |
 | PersonInstrument                | 0.0         | 0.0        | 0.0       |
-| macro average                   | **8.4**     | **5.61**   | **6.32**  |
+| macro average                   | **0.084**     | **0.056**   | **0.063**  |
 
 4. Implement your idea in the ``your_solution`` function in the [``solution.py``](solution.py) file.
