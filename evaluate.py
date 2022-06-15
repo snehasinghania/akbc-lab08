@@ -98,7 +98,7 @@ def evaluate(input_dir: Path, ground_truth_dir: Path, results_dir: Path):
                 )  ### calculating precision for the given subject-entity
                 r = recall(
                     predictions, ground_truth_objects
-                )  ### calculating precision for the given subject-entity
+                )  ### calculating recall for the given subject-entity
                 f1 = f1_score(
                     predictions, ground_truth_objects
                 )  ### calculating F1-score for the given subject-entity
